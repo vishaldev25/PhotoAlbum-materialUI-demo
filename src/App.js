@@ -25,7 +25,7 @@ function App() {
               Photo Album
             </Typography>
             <Typography variant='h5' align='center' color = "textSecondary" paragraph>
-              Hello this is a photo album so it is net worthy on saying obn te page
+              Hello, this is a Photo Album, where you can find much photos to view and Edit it...
             </Typography>
             <div style={{marginTop: "30px"}} >
               <Grid container spacing={2} justifyContent="center">
